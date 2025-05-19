@@ -2,4 +2,12 @@
     <string name="app_name">LoginApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log In</string>
+    <string name="please_filled_the_field">please filled the field</string>
+    <string name="user_saved">User Saved</string>
+    <string name="next">next</string>
+    <string name="media">media</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
 </resources>
